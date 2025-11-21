@@ -1,1 +1,11 @@
+[project]
+name = "light-utils-py"
+version = "0.1.0"
+description = "Lightweight Python utility library"
+authors = ["You <your_email@example.com>"]
+requires-python = ">=3.8"
 
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
